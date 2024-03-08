@@ -22,3 +22,5 @@
 2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 7
 2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 8
 2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 9
+2024-03-08T10:36:18.271+07:00  WARN 2130 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn Spring
+2024-03-08T10:36:18.271+07:00 ERROR 2130 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn IegCode
