@@ -1,0 +1,4 @@
+2024-03-08T10:23:50.888+07:00  WARN 1634 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn Spring
+2024-03-08T10:23:50.889+07:00 ERROR 1634 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn IegCode
+2024-03-08T10:24:33.435+07:00  WARN 1646 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn Spring
+2024-03-08T10:24:33.436+07:00 ERROR 1646 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn IegCode
