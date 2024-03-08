@@ -2,3 +2,23 @@
 2024-03-08T10:23:50.889+07:00 ERROR 1634 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn IegCode
 2024-03-08T10:24:33.435+07:00  WARN 1646 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn Spring
 2024-03-08T10:24:33.436+07:00 ERROR 1646 --- [main] iegcode.Javaspringlogging.LoggingTest    : Learn IegCode
+2024-03-08T10:30:51.435+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 0
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 1
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 2
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 3
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 4
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 5
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 6
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 7
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 8
+2024-03-08T10:30:51.436+07:00  WARN 1736 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 9
+2024-03-08T10:31:08.039+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 0
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 1
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 2
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 3
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 4
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 5
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 6
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 7
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 8
+2024-03-08T10:31:08.040+07:00  WARN 1746 --- [main] iegcode.Javaspringlogging.LoggingTest    : Hello World 9
